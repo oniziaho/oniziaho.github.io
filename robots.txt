@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oniziaho.github.io/BgU/sitemap_index.txt
+Sitemap: https://oniziaho.github.io/jfm/sitemap_index.txt
+Sitemap: https://oniziaho.github.io/kPh/sitemap_index.txt
+Sitemap: https://oniziaho.github.io/xPd/sitemap_index.txt
